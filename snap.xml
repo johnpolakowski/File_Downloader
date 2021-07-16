@@ -1,0 +1,31 @@
+<tr id="result0">
+  <td class="part-result" height="35px" style="vertical-align: middle;" width="100px">
+    <img alt="Vishay Siliconix" src="https://snapeda.s3.amazonaws.com/pinax/images/company_logos/thumbs/Vishay%20Siliconix.jpg" style="max-width: 80px;" title="Vishay Siliconix"/>
+  </td>
+  <td class="part-result" height="35px" style="vertical-align: middle;" width="130px">
+    <img alt="2N7002K-T1-E3" class="part-image" src="https://snapeda.s3.amazonaws.com/partpics/Vishay%20Siliconix_2N7002K-T1-E3_68027.jpg" style="height: 60px;" title="2N7002K-T1-E3"/>
+  </td>
+  <td class="part-result2" style="vertical-align: middle;" width="150px">
+    <a data-manufacturer="Vishay Siliconix" data-name="2N7002K-T1-E3" data-uid="null" href="https://www.snapeda.com/parts/2N7002K-T1-E3/Vishay Siliconix/view-part/?ref=search&amp;t=2N7002K-T1-E3">2N7002K-T1-E3</a>
+  </td>
+  <td class="part-result" style="vertical-align: middle;">SOT-23-3</td>
+  <td class="part-result" data-original-title="" data-toggle="tooltip" id="avail0" style="vertical-align: middle;" width="80px">
+    <div class="avail_icon loading_icon" id="loadingAvail0">
+      <i class="fa fa-spinner fa-pulse fa-fw"/>
+    </div>
+  </td>
+  <td class="part-result price-result" id="price0" style="vertical-align: middle; font-weight: bold; width: 100px; text-align: center; color: rgb(0, 136, 204);">
+    <div class="avail_icon loading_icon" id="loadingPrice0">
+      <i class="fa fa-spinner fa-pulse fa-fw"/>
+    </div>
+  </td>
+  <td class="part-result" style="vertical-align: middle;">N-Channel 60V 300mA (Ta) 350mW (Ta) Surface Mount SOT-23-3 (TO-236)</td>
+  <td class="part-result" id="data0" style="vertical-align: middle;" width="160px">
+    <img alt="Datasheet available" class="data-icon" data-original-title="Datasheet available" data-toggle="tooltip" id="has_datasheet0" src="/static/img/search_icons/datasheet_orange.309efa0acacc.png" style="height: 19px;"/>
+    <img alt="Symbol available" class="data-icon" data-original-title="Symbol available" data-toggle="tooltip" id="has_symbol0" src="/static/img/search_icons/symbol_orange.052c7612f40e.png" style="height: 21px;"/>
+    <img alt="Footprint available" class="data-icon" data-original-title="Footprint available" data-toggle="tooltip" id="has_footprint0" src="/static/img/search_icons/footprint_orange.fb0a819e4cde.png" style="height: 19px;"/>
+    <img alt="3D not available" class="data-icon" data-original-title="3D not available" data-toggle="tooltip" id="has_3d0" src="/static/img/search_icons/3d_outline.414a9525439c.png" style="height: 19px;"/>
+    <img alt="Sim not available" class="data-icon" data-original-title="Sim not available" data-toggle="tooltip" id="has_sim0" src="/static/img/search_icons/sim_dotted_orange.bca95e533749.png" style="height: 19px;"/>
+  </td>
+</tr>
+
